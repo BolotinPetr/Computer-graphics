@@ -1,3 +1,3 @@
 # Computer-graphics
-npm install
+npm install  
 npm run start
